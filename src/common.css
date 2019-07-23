@@ -1,0 +1,44 @@
+.changeCheckbox{
+    text-decoration:line-through
+}
+
+.mainbox{
+    text-align: left;
+    border:2px solid #a1a1a1;
+    padding:10px 10px 10px 20px;
+    width:400px;
+    border-radius:10px;
+    -moz-border-radius:25px;
+    margin:0 auto;
+    margin-top:100px;
+}
+
+.btn{
+    color: white;
+    border-radius:10px;
+    width:60px;
+    height:35px;
+    background-color: orangered;
+}
+#additem{
+    width:300px;
+    height:30px;
+}
+
+.footer{
+    text-align: center;
+    color: coral;
+}
+
+.itemstyle{
+    padding:10px 10px 10px 20px;
+}
+li{
+    display: inline;
+}
+.active {
+    border:2px antiquewhite solid;
+    border-radius:5px;
+    padding: 5px 5px 5px 5px;
+    background-color: white;
+}
